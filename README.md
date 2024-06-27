@@ -1,16 +1,6 @@
 # locate_me
 
-A new Flutter project.
+A flutter application to identify your current location and address.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-06-27 154239](https://github.com/Alto-b/locate_me/assets/89630614/71a91088-e81b-46ef-8f7b-3c26b7b8e434)
+![Screenshot 2024-06-27 154201](https://github.com/Alto-b/locate_me/assets/89630614/237f0714-3bd9-4442-8155-5a4c6d69d268)
