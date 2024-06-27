@@ -118,7 +118,7 @@ class _HomePageState extends State<HomePage> {
                         address,
                         maxLines: 1,
                         // "$lat , $long",
-                        style: TextStyle(
+                        style: const TextStyle(
                           color: Colors.white,
                           fontWeight: FontWeight.w600,
                           fontSize: 15,
@@ -128,27 +128,9 @@ class _HomePageState extends State<HomePage> {
                   )),
                 ),
               ),
-              Spacer(),
-              // Center(
-              //     child: Padding(
-              //   padding: const EdgeInsets.all(8.0),
-              //   child: Container(
-              //       color: Colors.white,
-              //       child: Text(
-              //         address,
-              //         style: TextStyle(fontSize: 17),
-              //       )),
-              // )),
-              // SizedBox(
-              //   height: 25,
-              // )
+              const Spacer(),
             ],
           ),
-          // Padding(
-          //   padding: const EdgeInsets.only(bottom: 10),
-          //   child: Center(
-          //       child: Container(color: Colors.white, child: Text(address))),
-          // ),
         ],
       ),
     );
