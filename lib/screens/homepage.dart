@@ -82,7 +82,7 @@ class _HomePageState extends State<HomePage> {
             child: Padding(
               padding: const EdgeInsets.all(0.1),
               child: GoogleMap(
-                mapType: MapType.normal,
+                mapType: MapType.satellite,
                 myLocationButtonEnabled: true,
                 initialCameraPosition: CameraPosition(
                   target: LatLng(
